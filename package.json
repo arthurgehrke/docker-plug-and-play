@@ -1,0 +1,11 @@
+{
+  "name": "docker-plug-and-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arthurgehrke/docker-plug-and-play.git",
+  "author": "arthurgehrke <arthurgehrke07@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
